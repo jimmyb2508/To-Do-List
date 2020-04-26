@@ -2,7 +2,7 @@
 To-Do-List
 
 # Instructions
-You can access the app here: https://simple-calculator-in-react.now.sh/
+You can access the app here: https://to-do-list-silk.now.sh/
 
 Alternatively, to run this programme on your local machine you can clone the repo then type:
 
